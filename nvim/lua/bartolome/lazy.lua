@@ -22,8 +22,8 @@ vim.opt.rtp:prepend(lazypath)
 -- Setup lazy.nvim
 require("lazy").setup({
   spec = {
-    -- import your plugins
     { import = "bartolome.plugins" },
+    { import = "bartolome.plugins.lsp" },
   },
   -- automatically check for plugin updates
   checker = { enabled = false },
