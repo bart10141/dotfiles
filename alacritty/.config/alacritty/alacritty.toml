@@ -1,0 +1,13 @@
+[font.normal]
+family = "Hack Nerd Font"
+
+[font]
+size = 20
+
+[window.position]
+x = 100
+y = 100
+
+[window.dimensions]
+columns = 150
+lines = 40
