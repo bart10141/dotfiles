@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PACKAGES="nvim alacritty zsh"
+PACKAGES="nvim alacritty zsh bash"
 
 echo "Aplicando configuraciones con stow..."
 
